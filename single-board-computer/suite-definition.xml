@@ -15,7 +15,7 @@
     <OverrideTestOptions></OverrideTestOptions>
   </Execute>
   <Execute>
-    <Test>system/openssl-1.11.0</Test>
+    <Test>pts/openssl-1.11.0</Test>
     <Arguments></Arguments>
     <Description></Description>
     <OverrideTestOptions></OverrideTestOptions>
